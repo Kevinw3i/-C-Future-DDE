@@ -1,0 +1,10 @@
+D:\GIT\DDE\dde\bin\Debug\dde.exe.config
+D:\GIT\DDE\dde\bin\Debug\dde.exe
+D:\GIT\DDE\dde\bin\Debug\dde.pdb
+D:\GIT\DDE\dde\obj\Debug\dde.csprojResolveAssemblyReference.cache
+D:\GIT\DDE\dde\obj\Debug\dde.Form1.resources
+D:\GIT\DDE\dde\obj\Debug\dde.Properties.Resources.resources
+D:\GIT\DDE\dde\obj\Debug\dde.csproj.GenerateResource.Cache
+D:\GIT\DDE\dde\obj\Debug\dde.exe
+D:\GIT\DDE\dde\obj\Debug\dde.pdb
+D:\GIT\DDE\dde\bin\Debug\NDde.dll
